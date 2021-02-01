@@ -1,1 +1,1 @@
-# c-est-tools
+Here in this GitHub repository, Patrick and I also known as the C#est Tools in the Shed, will be uploading our code as we progress through our CLC project, eventually creating a fully functional web version of our Minesweeper Game.
